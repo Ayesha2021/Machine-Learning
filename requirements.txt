@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+jupyterlab
+codeium-jupyter
+scipy
+scikit-learn
+Flask
+pydot
+graphviz
+mlxtend
+networkx
